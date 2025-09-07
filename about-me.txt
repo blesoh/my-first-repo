@@ -1,2 +1,4 @@
 My name is Blesoh and am learning about git
 I love learning new technologies.
+I love doing this
+I love tech
